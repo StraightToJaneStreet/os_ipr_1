@@ -1,0 +1,1 @@
+Biggest catalog: /home/sk/data/testinghall/JavaEditor/src/main/java/com/z7/editor/App.java; Size: 6007 bytes

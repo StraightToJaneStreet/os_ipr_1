@@ -1,0 +1,4 @@
+/home/sk/programs/clion/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/sk/programs/clion/bin/ninja/linux/ninja -G Ninja -S /home/sk/data/testinghall/ipr_1 -B /home/sk/data/testinghall/ipr_1/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/sk/data/testinghall/ipr_1/cmake-build-debug
